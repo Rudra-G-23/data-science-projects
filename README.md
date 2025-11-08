@@ -40,10 +40,20 @@ Welcome to my portfolio of projects! Below you will find a list of my projects w
 
 **📝 Table of Contents**
 - [📚 Projects Portfolio](#-projects-portfolio)
+  - [🐍 Own Python Packages](#-own-python-packages)
   - [🐍 Python Projects](#-python-projects)
   - [🤖 Machine Learning Projects](#-machine-learning-projects)
   - [📊 Other Projects](#-other-projects)
   - [🔬 Visualize Data Science](#-visualize-data-science)
+---
+
+## 🐍 Own Python Packages
+
+| **Package Name**           | **Repo Link**                                                          | **Documentation Link**                                                     |
+|:--------------------------: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| **Find My Joint**    | [GitHub Repo](https://github.com/Rudra-G-23/Find-My-Joint)      | [Docs Link](https://rudra-g-23.github.io/Find-My-Joint/)   | 
+| **Show-file-tree**    | [GitHub Repo](https://github.com/Rudra-G-23/show-file-tree)      | [Docs Link](https://rudra-g-23.github.io/show-file-tree/)   | 
+| **plot-flow**    | [GitHub Repo](https://github.com/Rudra-G-23/plot-flow)      | WIP (08-11-25)  | 
 
 ---
 
@@ -78,5 +88,17 @@ Welcome to my portfolio of projects! Below you will find a list of my projects w
 | **Website/ Project Name**   | **Website/Repo Link**                                                | **Demo/ Output**                                                     | **What You Learn**          | 
 |-----------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------|
 | **Linear System 3D Visualizer** | [GitHub Repo](https://github.com/Rudra-G-23/Linear-System-3D-Visualizer) | [Live Demo](https://linear-system-3d-visualizer-by-rudra.streamlit.app/) | Linear System 2D, 3D        | 
+
+---
+
+## Big Data 
+| **Project Name** | **Link** |
+| :----: | :---: |
+| **Yelp Big Data Capstone** | [GitHub Repo](https://github.com/Rudra-G-23/yelp-bigdata-capstone)|
+
+## Internship  
+| **Project Name** | **Link** |
+| :----: | :---: |
+| **Fin4Rural Growth** | [GitHub Repo](https://github.com/Rudra-G-23/rural-financial-inclusion-govt-scheme-recommendation) |
 
 ---
