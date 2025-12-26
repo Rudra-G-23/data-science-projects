@@ -96,9 +96,16 @@ Welcome to my portfolio of projects! Below you will find a list of my projects w
 | :----: | :---: |
 | **Yelp Big Data Capstone** | [GitHub Repo](https://github.com/Rudra-G-23/yelp-bigdata-capstone)|
 
+---
+
 ## Internship  
 | **Project Name** | **Link** |
 | :----: | :---: |
 | **Fin4Rural Growth** | [GitHub Repo](https://github.com/Rudra-G-23/rural-financial-inclusion-govt-scheme-recommendation) |
 
 ---
+
+## AI Agents
+| **Project Name** | **Link** |
+| :----: | :---: |
+| **AI Research Assistant** | [GitHub Repo](https://github.com/Rudra-G-23/ai-research-assistant)|
