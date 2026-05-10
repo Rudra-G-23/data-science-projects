@@ -117,6 +117,7 @@ Welcome to my portfolio! Explore my projects with tech stack, demos, and repo li
 | Project Name              | Repo Link                                                     |
 | ------------------------- | ------------------------------------------------------------- |
 | **AI Research Assistant** | [GitHub](https://github.com/Rudra-G-23/ai-research-assistant) |
+| **Smart Transaction Ledger with Chatbot** | [GitHub](https://github.com/Rudra-G-23/smart-transaction-ledger) |
 
 </details>
 
