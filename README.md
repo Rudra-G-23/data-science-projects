@@ -82,6 +82,7 @@ Welcome to my portfolio! Explore my projects with tech stack, demos, and repo li
 | ------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------- |
 | **Linear System 3D Visualizer** | [GitHub](https://github.com/Rudra-G-23/Linear-System-3D-Visualizer) | [Live](https://linear-system-3d-visualizer-by-rudra.streamlit.app/) | Linear Systems 2D/3D |
 | **Bihar Dashboard** | [GitHub](https://github.com/Rudra-G-23/bihar-viz-dashboard) | [Live](https://bihar-visualize-dashboard-by-rudra.streamlit.app/) | Dashboard for Bihar State |
+| **cloud-kitchen-dashboard** | [GitHub](https://github.com/Rudra-G-23/cloud-kitchen-dashboard) | [Live](https://cloud-kitchen-dashboard.streamlit.app/) | Dashboard for Cloud Kitchen Dashboard |
 
 </details>
 
